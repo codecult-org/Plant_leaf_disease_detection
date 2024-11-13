@@ -45,3 +45,14 @@ Tomato Septoria leaf spot : 200
 
 total used: 2952
 ```
+
+#### contributing 101:
+
+```
+# install git-lfs
+sudo pacman -S git-lfs # for arch based distros
+
+# to download the model
+git lfs install
+git lfs pull
+```
