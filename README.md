@@ -11,7 +11,7 @@ Pepper bell Bacterial spot : 997
 Tomato Leaf Mold : 952
 Tomato Spider mites Two spotted spider mite : 1676
 Tomato Early blight : 1000
-Tomato Tomato YellowLeaf Curl_Virus : 3209
+Tomato Tomato YellowLeaf Curl Virus : 3209
 Tomato Late blight : 1909
 Tomato healthy : 1591
 Tomato Target Spot : 1404
