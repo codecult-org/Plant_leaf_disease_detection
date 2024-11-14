@@ -49,7 +49,11 @@ total used: 2952
 #### contributing 101:
 
 ```
-# install git-lfs
+# clone using http not ssh as lfs have problems with ssh
+# set remote url to https
+git clone https://github.com/codecult-org/leaf-disease-detection.git
+
+# install git-lfs to pull the model
 sudo pacman -S git-lfs # for arch based distros
 
 # to download the model
